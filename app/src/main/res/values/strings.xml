@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Chowis FFA</string>
+    <string name="xAxis">X Axis:</string>
+    <string name="yAxis">Y Axis:</string>
+    <string name="zAxis">Z Axis:</string>
+    <string name="heading">Heading:</string>
+    <string name="pitch">Pitch:</string>
+    <string name="roll">Roll:</string>
+    <string name="altitude">Altitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="empty"></string>
+    <string name="take_picture">Take picture</string>
+    <string name="apptitlestring">Let\'s analyze the selfie \n press \'OK\' to start taking pictures</string>
+    <string name="setting">Setting</string>
+    <string name="start">Start</string>
+    <string name="version">Version : 1.0.0</string>
+    <string name="guider">Please tilt your head slightly</string>
+</resources>
